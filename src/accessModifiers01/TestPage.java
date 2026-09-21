@@ -7,8 +7,12 @@ public class TestPage {
 
 	}
 
-	public  void methodLocal() {
+	public void methodLocal() {
 		System.out.println("Method - local branch ");
+	}
+
+	public void methodOrigin() {
+		System.out.println("Method - origin branch");
 
 	}
 }
