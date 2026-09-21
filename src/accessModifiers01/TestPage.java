@@ -8,7 +8,7 @@ public class TestPage {
 	}
 
 	public  void method01() {
-		System.out.println("Method 01");
+		System.out.println("Method - origin branch");
 
 	}
 }
